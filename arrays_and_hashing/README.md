@@ -6,3 +6,9 @@
 - separate column for resources for each problem.
 
 
+arrays and hashing 
+    - solutions
+        - Contains Duplicate
+            - java
+            - python
+        - Valid Anagram
